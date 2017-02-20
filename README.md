@@ -1,4 +1,4 @@
 # hello-world
 My Repository
 
-Hello all, I'm new here! which is why I'm making a few changes.
+Hello all, I'm new here! Which kind of explains why I'm making a few changes.
